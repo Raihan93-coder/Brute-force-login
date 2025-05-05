@@ -1,4 +1,4 @@
-#This program is to generate a minimum length password that is 8 character using name and date of birth
+#This program is to generate a password of given length using name and date of birth
 #The obtained password will be stored in a txt file named as wordlist.txt and this will be word list used for initiating the attack
 
 import random
