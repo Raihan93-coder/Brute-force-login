@@ -14,10 +14,12 @@ This my first journey to become a cybersecurity expert, this is my first contrib
 - `mechanize`
 - `flask`
 
+The given below wordlist.txt is a generated word list from the password_generator.py
+By the input pass and 321 
+
 ### Install Dependencies
 
 ```bash
 pip install flask mechanize
 
-The given below wordlist.txt is a generated word list from the password_generator.py
-By the input pass and 321 
+
